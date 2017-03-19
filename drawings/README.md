@@ -8,6 +8,6 @@ The SharpSky Pro mounting bracket drawings for the FSQ106 and FSQ106N are stored
 
 ## Copyright
 
-All the design files here are copyright 2016 C.Y. Tan and released
+All the design files here are copyright 2017 C.Y. Tan and released
 under Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
